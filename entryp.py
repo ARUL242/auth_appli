@@ -1,5 +1,5 @@
 from flask import Flask
-from regis import register_bp
+from register import register_bp
 from login import login_bp
 from authen import auth_bp
 
